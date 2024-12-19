@@ -1,5 +1,8 @@
-# Sara Johlu - Portfolio 
+# Sara Johlu - Portfolio
+ 
+
 ## 2024: started my front end developer journey. 
+
 
 
 Mitt namn är Sara, studerar just nu till att bli front end utvecklare på yrkeshögskola. 
